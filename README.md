@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Thanks for stopping by!
 <!--
 **emmariegeo/emmariegeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on ...
-Volunteer Website Development for [itisOVERDUE](https://itisoverdue.org/)  
+Volunteering as a Website Developer for [itisOVERDUE](https://itisoverdue.org/)  
 Finishing my Computer Science Bachelor's degree
 
 ### 🌱 I’m currently learning ...
@@ -28,5 +28,6 @@ Unity
 Headless Content Management Systems  
 Teamfight Tactics
 
-[![linkedin](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF>)](https://www.linkedin.com/in/emmamgeorge/)  [![portfolio](https://img.shields.io/badge/My_Portfolio-4F46E5?style=flat&logoColor=ffffff>)](https://www.emmageorge.dev/)
+[![linkedin](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF>)](https://www.linkedin.com/in/emmamgeorge/ "Visit my LinkedIn Profile")  [![portfolio](https://img.shields.io/badge/My_Portfolio-4F46E5?style=flat&logoColor=ffffff>)](https://www.emmageorge.dev/ "Check out my portfolio!")  
+![Graduation Countdown Badge](https://img.shields.io/date/1702800000?color=009933&label=Graduating&logo=timetograduation "Countdown to Graduation")
 
