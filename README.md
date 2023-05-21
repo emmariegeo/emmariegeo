@@ -19,13 +19,19 @@ Here are some ideas to get you started:
 Volunteering as a Website Developer for [itisOVERDUE](https://itisoverdue.org/)  
 Finishing my Computer Science Bachelor's degree
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning about...
 Data Science  
 Machine Learning  
 Unity
 
+### 👯 I’m looking to collaborate on...
+Game projects
+
 ### 💬 Ask me about ...
-Headless Content Management Systems  
+Headless content management systems  
+Volunteering with a [cool nonprofit](https://itisoverdue.org/)  
+My ~~secret~~ event planning talents  
+DIY home office curtains  
 Teamfight Tactics
 
 [![linkedin](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF>)](https://www.linkedin.com/in/emmamgeorge/ "Visit my LinkedIn Profile")  [![portfolio](https://img.shields.io/badge/My_Portfolio-4F46E5?style=flat&logoColor=ffffff>)](https://www.emmageorge.dev/ "Check out my portfolio!")  
