@@ -14,5 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 I’m currently working on ...
+Volunteer Website Development for [itisOVERDUE](https://itisoverdue.org/)  
+Finishing my Computer Science Bachelor's degree
+
+### 🌱 I’m currently learning ...
+Data Science  
+Machine Learning  
+Unity
+
+### 💬 Ask me about ...
+Headless Content Management Systems  
+Teamfight Tactics
+
 [![linkedin](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF>)](https://www.linkedin.com/in/emmamgeorge/)  [![portfolio](https://img.shields.io/badge/My_Portfolio-4F46E5?style=flat&logoColor=ffffff>)](https://www.emmageorge.dev/)
 
