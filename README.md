@@ -16,16 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on ...
+Interning with Zynga :video_game:  
 Volunteering as a Website Developer for [itisOVERDUE](https://itisoverdue.org/)  
 Finishing my Computer Science Bachelor's degree
 
 ### 🌱 I’m currently learning about...
-Data Science  
 Machine Learning  
 Unity
-
-### 👯 I’m looking to collaborate on...
-Game projects
 
 ### 💬 Ask me about ...
 Headless content management systems  
