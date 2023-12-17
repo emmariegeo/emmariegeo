@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### :white_check_mark: I just wrapped up ... 
+My senior capstone project. Check it out [here](https://github.com/emmariegeo/GameBuilderWorkshop)! :mortar_board:  
+
 ### 🔭 I’m currently working on ...
-My senior capstone project  
-Finishing my Computer Science Bachelor's degree
+A little R&R 😎  
+Starting a new job :video_game:  
 
 ### 🌱 I’m currently learning about...
-HTML5 game engines
+Phaser
 
 ### 💬 Ask me about ...
 Headless content management systems  
-My summer internship with Zynga :video_game:  
 My ~~secret~~ event planning talents  
-DIY home office curtains  
 Teamfight Tactics
 
 [![linkedin](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF>)](https://www.linkedin.com/in/emmamgeorge/ "Visit my LinkedIn Profile")  [![portfolio](https://img.shields.io/badge/My_Portfolio-4F46E5?style=flat&logoColor=ffffff>)](https://www.emmageorge.dev/ "Check out my portfolio!")  
-![Graduation Countdown Badge](https://img.shields.io/date/1702800000?color=009933&label=Graduating&logo=timetograduation "Countdown to Graduation")
 
