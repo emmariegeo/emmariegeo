@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :white_check_mark: I just wrapped up ... 
-My senior capstone project. Check it out [here](https://github.com/emmariegeo/GameBuilderWorkshop)! :mortar_board:  
+### ✅ In 2023, I wrapped up ... 
+my senior capstone project. Check it out [here](https://github.com/emmariegeo/GameBuilderWorkshop)! :mortar_board:  
 
-### 🔭 I’m currently working on ...
-A little R&R 😎  
-Starting a new job :video_game:  
+### 🔭 In 2024, I'm working on ...
+exciting new projects as a Software Engineer. ⌨️
 
-### 🌱 I’m currently learning about...
-Phaser
+### 🌱 I’m currently learning about ...
+Phaser  🎮  
+Docker  🐳
+
 
 ### 💬 Ask me about ...
 Headless content management systems  
 My ~~secret~~ event planning talents  
-Teamfight Tactics
 
 [![linkedin](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF>)](https://www.linkedin.com/in/emmamgeorge/ "Visit my LinkedIn Profile")  [![portfolio](https://img.shields.io/badge/My_Portfolio-4F46E5?style=flat&logoColor=ffffff>)](https://www.emmageorge.dev/ "Check out my portfolio!")  
 
