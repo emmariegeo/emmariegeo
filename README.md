@@ -15,20 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ✅ In 2023, I wrapped up ... 
-my senior capstone project. Check it out [here](https://github.com/emmariegeo/GameBuilderWorkshop)! :mortar_board:  
+I've spent the last few years working on creative tooling in games and entertainment, 🎮
 
-### 🔭 In 2024, I'm working on ...
-exciting new projects as a Software Engineer. ⌨️
-
-### 🌱 I’m currently learning about ...
-Phaser  🎮  
-Docker  🐳
+and now I'm looking for the next big thing! 🚀
 
 
-### 💬 Ask me about ...
-Headless content management systems  
-My ~~secret~~ event planning talents  
 
-[![linkedin](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF>)](https://www.linkedin.com/in/emmamgeorge/ "Visit my LinkedIn Profile")  [![portfolio](https://img.shields.io/badge/My_Portfolio-4F46E5?style=flat&logoColor=ffffff>)](https://www.emmageorge.dev/ "Check out my portfolio!")  
+[![linkedin](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF>)](https://www.linkedin.com/in/emmamgeorge/ "Visit my LinkedIn Profile") 
 
