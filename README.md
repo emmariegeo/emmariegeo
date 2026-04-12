@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 I've spent the last few years working on creative tooling in games and entertainment, 🎮
 
-and now I'm looking for the next big thing! 🚀
+and now I'm looking for my next adventure! 🚀
 
 
 
-[![linkedin](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF>)](https://www.linkedin.com/in/emmamgeorge/ "Visit my LinkedIn Profile") 
+[![linkedin](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/emmamgeorge/ "Visit my LinkedIn Profile") 
+[![linkedin](https://img.shields.io/badge/My_Portfolio-8A2BE2?style=flat)](https://www.emmageorge.dev/ "Visit my Portfolio") 
 
